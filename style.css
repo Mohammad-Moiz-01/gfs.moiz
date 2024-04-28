@@ -1,0 +1,27 @@
+.logo{
+    width: 100px;
+    height: 80px;
+    margin-left: 100px;
+}
+
+.Quote{
+    color: white;
+    background-color: red;
+    margin-right: 100px;
+    padding: 5px;
+}
+
+
+#service:hover{
+    color: white;
+    background-color: red;
+
+}
+
+#team{
+    margin-left: 100px;
+}
+
+#work{
+    cursor: pointer;
+}
